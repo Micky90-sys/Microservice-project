@@ -1,0 +1,8 @@
+com\example\userservice\security\CustomUserDetails.class
+com\example\userservice\entity\User.class
+com\example\userservice\repository\UserRepository.class
+com\example\userservice\config\SecurityConfig.class
+com\example\userservice\security\CustomUserDetailsService.class
+com\example\userservice\UserServiceApplication.class
+com\example\userservice\controller\UserController.class
+com\example\userservice\service\UserService.class

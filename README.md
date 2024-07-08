@@ -278,7 +278,8 @@ Eliminare un prodotto:
 
 **sh
 
+curl -X DELETE http://localhost:8080
 
-Conclusioni
+## Conclusioni
 
 Questo progetto dimostra come implementare un'architettura a microservizi utilizzando Spring Boot, Spring Cloud Netflix Eureka e Spring Cloud Gateway. Ogni servizio è indipendente e può essere scalato separatamente, migliorando la manutenibilità e la scalabilità del sistema complessivo.
